@@ -306,24 +306,6 @@ select {
   }
 }
 
-@font-face {
-  font-family: "GT-Haptik";
-  src: url(GT-Haptik-Bold.4c6e00bf.woff2) format("woff2"), url(GT-Haptik-Bold.f731dd29.woff) format("woff");
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "Circular-Regular";
-  src: url(Circular-Regular.65d19f19.woff2) format("woff2"), url(Circular-Regular.17e042b1.woff) format("woff");
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "Circular-Bold";
-  src: url(Circular-Bold.668d3534.woff2) format("woff2"), url(Circular-Bold.ea0f809f.woff) format("woff");
-  font-style: normal;
-}
-
 .t-cc--reg {
   font-family: "Circular-Regular";
   font-weight: normal;
