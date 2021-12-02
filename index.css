@@ -307,13 +307,13 @@ select {
 }
 
 .t-cc--reg {
-  font-family: "Circular-Regular";
-  font-weight: normal;
+  font-family: Circular, sans-serif;
+  font-weight: 400;
 }
 
 .t-cc--bold {
-  font-family: "Circular-Bold";
-  font-weight: normal;
+  font-family: Circular, sans-serif;
+  font-weight: 700;
 }
 
 .t-gt--bold {
@@ -334,9 +334,9 @@ html,
 body,
 input,
 button {
-  font-family: "Circular-Regular";
+  font-family: Circular, sans-serif;
   font-style: normal;
-  font-size: 14px;
+  font-size: 14px !important;
 }
 
 a {
